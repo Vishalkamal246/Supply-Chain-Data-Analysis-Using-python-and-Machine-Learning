@@ -1,0 +1,11 @@
+The dataset provides population data for 234 countries and territories, covering multiple
+years:
+Attributes:
+• Rank, Country Code (CCA3), Country/Territory, Capital
+• Continent
+• Population counts: 1970, 1980, 1990, 2000, 2010, 2015, 2020, 2022
+• Area (km²)
+• Density (per km²)
+• Growth Rate (%)
+• World Population Percentage
+This rich dataset helps explore both historical and recent population statistics.
