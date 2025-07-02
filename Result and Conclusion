@@ -1,25 +1,18 @@
-Results:
-•The total world population in 2022: ~7.97 billion.
-•Asia is the most populous continent with over 4.7 billion people.
-•The top three countries by population are China, India, and the USA.
-•Some countries have negative growth rates, indicating population decline.
-•Population density varies widely across continents.
+Key Findings:
+•The simple correlation between price, units sold, and revenue was weak —
+suggesting more complex interactions in the supply chain.
+•Visuals showed variation in revenue by product type and customer demographics.
+•The prediction model did not achieve high accuracy, indicating more detailed or
+external factors may be needed for precise forecasting.
 
-Trends & Insights:
-• The global population has steadily increased from 1970 to 2022.
-• Developing regions, especially in Asia and Africa, show high growth rates.
-• Some developed countries in Europe show stable or negative growth.
-• Countries with small land areas can have very high population densities.
-• Visualization of growth rates shows which countries are expanding fastest and
-which are shrinking.
 
 Conclusion:
-•The analysis shows clear differences in population trends across continents and
-countries.
-•High population growth will continue to challenge resource management and
-urban planning.
-•Declining populations in some regions may pose different challenges like aging
-demographics.
-•Data analysis like this supports policymakers, researchers, and businesses in
-making informed decisions about sustainability, development, and resource
+•Supply chain performance depends on multiple variables, not just price and sales
+volume.
+•Insights highlight the need for better data on production efficiency, quality control, and
+customer trends.
+•Future work can combine this data with seasonal trends or market demand for better
+planning.
+•Overall, data-driven supply chain analysis helps companies optimize costs, maintain
+inventory balance, and boost profitability.
 allocation.
