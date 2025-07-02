@@ -1,0 +1,12 @@
+Key steps in the project:
+• Data Preparation: Loaded CSV, checked for missing values and duplicates
+(none found).
+• Data Cleaning: Renamed columns for clarity.
+• Descriptive Statistics: Used describe() to understand averages and
+distributions.
+• Visualization:
+o Bar plots for most & least populous countries.
+o Sunburst and line charts for continent-level trends.
+o Time series plots for global population growth.
+Growth Analysis: Sorted countries by growth rate to find outliers.
+Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly.
